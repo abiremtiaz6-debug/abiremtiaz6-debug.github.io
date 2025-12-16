@@ -1,0 +1,9 @@
+{
+  "name": "Nikto IT Central AI Manager",
+  "description": "A central AI dashboard for Nikto IT agency to manage tasks, workflow, and intelligent Q&A using Gemini models.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
